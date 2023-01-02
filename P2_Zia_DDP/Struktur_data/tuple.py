@@ -1,0 +1,2 @@
+gorengan = ("bakwan", "combro", "misro")
+
